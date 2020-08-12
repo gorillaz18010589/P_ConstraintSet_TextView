@@ -1,0 +1,2 @@
+rootProject.name='P_ConstraintSet_TextView'
+include ':app'
